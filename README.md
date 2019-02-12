@@ -1,8 +1,4 @@
 # Summer-Internship-Management-System
-DBMS Project
-
-Summer Internship Management System
-
 
 The database application is called UNIVERSITY with the following data requirement. The UNIVERSITY database keeps track of a university’s student, departments and summer internships.
 
