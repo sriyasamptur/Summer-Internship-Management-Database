@@ -5,6 +5,7 @@ Summer Internship Management System
 
 
 The database application is called UNIVERSITY with the following data requirement. The UNIVERSITY database keeps track of a university’s student, departments and summer internships.
+
 	The university is organized into departments. Each department has a unique name and a number of students under that department. A number of projects can be done under a department each of which has a unique name.
 
 	The database will store information about the student like name, SRN(), gender, department, semester, section, year of graduation, email-id, mobile number and cgpa. A student belonging to a department may work on internships which are specific to a domain during the semester break.
