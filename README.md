@@ -2,8 +2,8 @@ Summer Internship Management System
 
 G Section
 
-S Sriya			        PES1201700048  
+PES1201700048          S Sriya			      
 
-Bhavya B	    	    PES1201700261 
+PES1201700261          Bhavya B	    	   
 
-Lavanya L		        PES1201700798
+PES1201700798          Lavanya L		       
